@@ -1,4 +1,4 @@
-# wxpusher PHP 快速开发工具类
+# wxpusher ThinkPHP 自用工具类
 ------
 [![GitHub issues](https://img.shields.io/github/issues/i-chenzhe/weChatPusher--PHP)](https://github.com/wxpusher/wxpusher-sdk-php/issues)
 [![GitHub stars](https://img.shields.io/github/stars/i-chenzhe/weChatPusher--PHP)](https://github.com/meloncn/wxpusher-sdk-php/stargazers)
